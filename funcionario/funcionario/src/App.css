@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #141414;
+  font-family: Arial, Helvetica, sans-serif;
+  align-items: center;
+  justify-content: center;
+}
+
+.centro {
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.form {
+  background-color: rgb(210, 210, 223);
+  border-radius: 10px;
+  width: 500px;
+  max-width: 500px;
+}
+
+.input {
+  background-color: #a663cc;
+  color: white;
+  border: none;
+  width: 100%;
+}
+
+.input:focus {
+  outline: none;
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+.form-select{
+   background-color: #a663cc;
+  color: #ffffff;
+  width: 100%;
+}
